@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning Example
 
   Example of a ML algorithm. 
   In the example is used GradientBoostingClassifier and GridSearchCV.
